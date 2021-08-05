@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhormir
 - 👀 I’m Currently a last year student of CompSci
-- 🌱 I’m currently learning about go, machine learning and neural networks
+- 🌱 I’m currently learning about Go, machine learning and ANN
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me (We are working for you)
 
