@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhormir
-- 👀 I’m Currently a last year student of CompSci
+- 👀 I’m Currently a last year student of CompSci at UTFSM
 - 🌱 I’m currently learning about Go, machine learning and deep learning
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me (We are working for you)
