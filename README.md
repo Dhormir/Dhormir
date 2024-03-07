@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dhormir
+- 👋 Hi, I’m Domingo Benoit Cea (@Dhormir)
 - 👀 I’m Currently a masters student of CompSci at UTFSM
-- 🌱 I’m currently learning about Machine Learning, Deep Learning and Counterfactual Explanations for MAchine Learning
-- 💞️ I’m looking to collaborate on any Open Source ML project 
+- 🌱 I’m currently learning about Machine Learning, Deep Learning and Counterfactual Explanations for Machine Learning.
+- 💞️ I’m looking to collaborate on any Open Source ML or HPC project or anything related to this fields.
 - 📫 How to reach me: send an email at domingo.benoit@sansano.usm.cl
 <!---
 Dhormir/Dhormir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
